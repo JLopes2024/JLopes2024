@@ -1,6 +1,6 @@
 👋 Olá, eu sou @JLopes2024  
 - 👀 Tenho interesse em tecnologia, projetos interativos e visualização de dados.  
-- 🌱 Atualmente, estou aprendendo Next.js e retomando meus estudos em programação, expandindo minhas habilidades em HTML, JavaScript, CSS e PHP.  
+- 🌱 Atualmente, estou aprendendo React.js e retomando meus estudos em programação, expandindo minhas habilidades em HTML, JavaScript, CSS e PHP.  
 - 💞️ Estou buscando colaborar em projetos de desenvolvimento web, especialmente aqueles focados em representação de dados e design UI/UX.  
 - 📫 Como me contatar: [jefferson.lsilva24@gmail.com](mailto:jefferson.lsilva24@gmail.com)  
 - 😄 Pronomes: Ele/Dele  
