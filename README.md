@@ -38,7 +38,7 @@ Minha abordagem une a **lógica de programação** com a **visão educacional**:
 * **Criação de soluções educacionais:** Desenvolvimento de sistemas e ferramentas que auxiliam no processo de ensino.
 * **Automação de processos:** Uso de Python para criar fluxos que economizam tempo e reduzem tarefas repetitivas.
 * **Experiência do Usuário:** Desenvolvimento de interfaces focadas em usabilidade e clareza.
-* 
+
 ---
 
 ### 📫 Vamos conversar?
