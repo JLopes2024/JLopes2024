@@ -30,13 +30,17 @@ Sou **Desenvolvedor de Full Stack** com foco em **Soluções Educacionais**. Tra
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="30" />
 
 </div>
+
 ---
+
 ### 💡 Foco de Trabalho
 Minha abordagem une a **lógica de programação** com a **visão educacional**:
 * **Criação de soluções educacionais:** Desenvolvimento de sistemas e ferramentas que auxiliam no processo de ensino.
 * **Automação de processos:** Uso de Python para criar fluxos que economizam tempo e reduzem tarefas repetitivas.
 * **Experiência do Usuário:** Desenvolvimento de interfaces focadas em usabilidade e clareza.
+* 
 ---
+
 ### 📫 Vamos conversar?
 Estou sempre aberto a trocar ideias sobre desenvolvimento, educação e novas tecnologias.
 
