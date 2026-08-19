@@ -1,7 +1,6 @@
 # Olá, eu sou @JLopes2024 👋
 
-Sou **Desenvolvedor de Software** com foco em **Soluções Educacionais**. Trabalho transformando necessidades pedagógicas e de gestão em sistemas funcionais, utilizando a tecnologia como ferramenta para organizar fluxos e otimizar o aprendizado.
-
+Sou **Desenvolvedor de Full Stack** com foco em **Soluções Educacionais**. Trabalho transformando necessidades pedagógicas e de gestão em sistemas funcionais, utilizando a tecnologia como ferramenta para organizar fluxos e otimizar o aprendizado.
 ---
 
 ### 🛠 Tech Stack
@@ -31,25 +30,13 @@ Sou **Desenvolvedor de Software** com foco em **Soluções Educacionais**. Traba
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="30" />
 
 </div>
-
 ---
-
 ### 💡 Foco de Trabalho
 Minha abordagem une a **lógica de programação** com a **visão educacional**:
 * **Criação de soluções educacionais:** Desenvolvimento de sistemas e ferramentas que auxiliam no processo de ensino.
 * **Automação de processos:** Uso de Python para criar fluxos que economizam tempo e reduzem tarefas repetitivas.
 * **Experiência do Usuário:** Desenvolvimento de interfaces focadas em usabilidade e clareza.
-
 ---
-
-### 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JLopes2024&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JLopes2024&layout=compact&theme=radical" />
-</div>
-
----
-
 ### 📫 Vamos conversar?
 Estou sempre aberto a trocar ideias sobre desenvolvimento, educação e novas tecnologias.
 
