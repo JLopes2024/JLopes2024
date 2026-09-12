@@ -45,7 +45,7 @@ Minha abordagem une a **lógica de programação** com a **visão educacional**:
 Estou sempre aberto a trocar ideias sobre desenvolvimento, educação e novas tecnologias.
 
 * **Email:** jeffinho.je8@gmail.com
-* **LinkedIn:** [Insira seu link aqui]
+* **LinkedIn:** https://www.linkedin.com/in/jefferson-lopes-silva/
 
 ---
 
