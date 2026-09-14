@@ -52,7 +52,7 @@ Alguns projetos que representam minha atuação entre **desenvolvimento de softw
 | 📸 **Portfólio Fotografia** | Website desenvolvido para uma fotógrafa, com foco em apresentação visual, experiência do usuário e conversão. | Next.js • TypeScript • React |
 | 🏭 **Linha de Produção** | PWA educacional que simula a gestão de uma linha de produção para jovens em formação profissional. | React • PWA • JavaScript |
 | 💱 **Conversor de Moedas** | Aplicação financeira com consumo de API pública para conversão de moedas em tempo real. | React • Fetch API • JavaScript |
-| 🎓 **Soluções Educacionais** | Aplicações, jogos e ferramentas digitais criadas para transformar conteúdos de formação profissional em experiências interativas. | React • Firebase • JavaScript • Python |
+| 🎓 **Soluções Educacionais** | Aplicações, jogos e ferramentas digitais criadas para transformar conteúdos de formação profissional em experiências interativas. | React • Firebase • JavaScript • Supabase • Python |
 
 > 💡 Meu objetivo é desenvolver produtos que não sejam apenas funcionais, mas que resolvam **problemas reais de pessoas, negócios e ambientes educacionais**.
 
