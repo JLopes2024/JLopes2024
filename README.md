@@ -57,7 +57,6 @@ Alguns projetos que representam minha atuação entre **desenvolvimento de softw
 > 💡 Meu objetivo é desenvolver produtos que não sejam apenas funcionais, mas que resolvam **problemas reais de pessoas, negócios e ambientes educacionais**.
 
 ---
----
 
 ### 📫 Vamos conversar?
 Estou sempre aberto a trocar ideias sobre desenvolvimento, educação e novas tecnologias.
