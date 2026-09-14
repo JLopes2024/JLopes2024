@@ -1,6 +1,7 @@
 # Olá, eu sou @JLopes2024 👋
 
-Sou **Desenvolvedor de Full Stack** com foco em **Soluções Educacionais**. Trabalho transformando necessidades pedagógicas e de gestão em sistemas funcionais, utilizando a tecnologia como ferramenta para organizar fluxos e otimizar o aprendizado.
+Sou **Desenvolvedor de Software e Educador** com foco em **Soluções Educacionais**. Trabalho transformando necessidades pedagógicas e de gestão em sistemas funcionais, utilizando a tecnologia como ferramenta para organizar fluxos e otimizar o aprendizado.
+
 ---
 
 ### 🛠 Tech Stack
